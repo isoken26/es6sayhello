@@ -10,6 +10,14 @@
   },
   "author": "isoken26 <kisomura26@gmail.com> (https://github.com/isoken26)",
   "license": "ISC",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isoken26/es6sayhello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isoken26/es6sayhello/issues"
+  },
+  "homepage": "https://github.com/isoken26/es6sayhello#readme",
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/preset-env": "^7.1.5",
